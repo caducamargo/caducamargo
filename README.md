@@ -15,8 +15,8 @@ I'm a student of Software Analysis and Development | JAVA Enthusiast | Fascinate
 - 💻 JAVA Enthusiast
 - 🎓 I'm in the third semester of Systems Analysis and Development
 
+## My GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caducamargo&layout=compact&theme=react)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caducamargo&layout=compact)](https://github.com/caducamargo/github-readme-stats)
-
-![caducamargo GitHub stats](https://github-readme-stats.vercel.app/api?username=caducamargo&show_icons=true)
+![caducamargo GitHub stats](https://github-readme-stats.vercel.app/api?username=caducamargo&show_icons=true&theme=react)
