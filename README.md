@@ -14,5 +14,3 @@ I'm a student of Software Analysis and Development | JAVA Enthusiast | Fascinate
 - 📌 From SP - Brazil
 - 💻 JAVA Enthusiast
 - 🎓 I'm in the third semester of Systems Analysis and Development
-
-![programming](https://www.google.com/url?sa=i&url=https://favpng.com/png_view/child-computer-programming-vector-graphics-clip-art-child-illustration-png/1ynEqbAi&psig=AOvVaw1FK0e_f32K0W93qw_5vK3C&ust=1620679379882000&source=images&cd=vfe&ved=2ahUKEwi245Cnu73wAhUMazABHa5uDL0QjRx6BAgAEAc)
