@@ -1,7 +1,7 @@
 # Hi, I'm [Carlos!](https://www.linkedin.com/in/carlos-eduardo-ads/) 😉
 
 ### **About me**
-I'm graduate on Software Analysis and Development | JAVA Enthusiast | Fascinated for the learning and always looking for the next level.
+I'm graduate on Software Analysis and Development | Fascinated for the learning and always looking for the next level.
 
  ***I am open to job opportunities (Internship)***
 
@@ -12,8 +12,8 @@ I'm graduate on Software Analysis and Development | JAVA Enthusiast | Fascinated
 
   
 - 📌 From SP - Brazil
-- 💻 JAVA Enthusiast
-- 🎓 I'm in the third semester of Systems Analysis and Development
+- 💻 JAVA | FLUTTER | SQL | ANGULAR
+- 🎓 I'm graduate
 
 ## My GitHub Stats
 
