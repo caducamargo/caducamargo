@@ -1,7 +1,7 @@
 # Hi, I'm [Carlos!](https://www.linkedin.com/in/carlos-eduardo-ads/) 😉
 
 ### **About me**
-I'm a student of Software Analysis and Development | JAVA Enthusiast | Fascinated for the learning and always looking for the next level.
+I'm graduate on Software Analysis and Development | JAVA Enthusiast | Fascinated for the learning and always looking for the next level.
 
  ***I am open to job opportunities (Internship)***
 
