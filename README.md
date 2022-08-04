@@ -12,8 +12,8 @@ I'm graduate on Software Analysis and Development | Fascinated for the learning 
 
   
 - 📌 From SJC - SP
-- 💻 JAVA | FLUTTER | SQL | ANGULAR
-- 🎓 I'm graduate
+- 💻 JAVA | FLUTTER | MYSQL 
+- 🎓 Graduate
 
 ## My GitHub Stats
 
