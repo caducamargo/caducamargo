@@ -12,7 +12,7 @@ I'm graduate on Software Analysis and Development | Fascinated for the learning 
 
   
 - 📌 From SJC - SP
-- 💻 JAVA | FLUTTER | MYSQL 
+- 💻 JAVA | JAVASCRIPT | NODEJS | BACKEND 
 - 🎓 Graduate
 
 ## My GitHub Stats
