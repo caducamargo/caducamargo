@@ -6,7 +6,7 @@ I'm graduate on Software Analysis and Development | Fascinated for the learning 
  ***I am open to job opportunities (Internship)***
 
 - 📌 From SJC - SP
-- 💻 JAVA | JAVASCRIPT | NODEJS | BACKEND 
+- 💻 JAVA | BACKEND 
 - 🎓 Graduate
 
 ## My GitHub Stats
